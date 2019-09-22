@@ -1,2 +1,2 @@
 # Bash_Like_Shell
-mimic the functionality of bash shell and add-on features
+A shell which mimics the functionalities of genome shell. Implimentend from scratch in using system calls.
